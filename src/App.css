@@ -1,0 +1,47 @@
+.calc {
+  text-align: center;
+  width: 320px;
+  margin: 10px auto;
+
+}
+
+#answer{
+  font-size: 35px;
+  text-align: right;
+  background:white;
+  width: 399px;
+  height: 42px;
+ box-sizing:20px;
+   border-radius: 12px;
+  font-size: 30px;
+  float: left;
+}
+.btn {
+  background:white;
+  width: 99px;
+  height: 42px;
+ box-sizing:20px;
+   border-radius: 12px;
+  font-size: 30px;
+  float: left;
+  
+
+}
+#equal {
+
+  text-align: center;
+  font-size: 50px;
+  font-size: 35px;
+  background:white;
+  width: 399px;
+  height: 42px;
+ box-sizing:20px;
+   border-radius: 12px;
+  font-size: 30px;
+  float: left;
+
+  
+  
+  
+}
+
